@@ -12,5 +12,7 @@ This page scrapes a particular page on the Ludum Dare website, which contains in
 The page is set up to default to scraping the LD35 event, however a GET parameter can be set to change this. Adding "?event=36" at the end of the URL will perform the scrape for Ludum Dare 36.
 
 # Live demo
+Follow this link: http://liamlime.com/content/ldtools/rescuechicken/
 
-http://liamlime.com/content/ldtools/rescuechicken/
+# Contribution
+If you would like to rewrite this tool "properly", expand it or fix any potential bug, please send a pull request. If you find a bug or have a feature request, please post it as an issue here: https://github.com/balohmatevz/LudumDareRescueChicken/issues/new
